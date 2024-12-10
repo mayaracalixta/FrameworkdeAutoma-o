@@ -1,0 +1,42 @@
+{
+    "elements": {
+        "signup-login-button": "Signup / Login",
+        "signup-delete-button": " Delete Account",
+        "signup-new-user": "New User Signup!",
+        "signup-name": "[data-qa='signup-name']",
+        "signup-email": "[data-qa='signup-email']",
+        "signup-button": "[data-qa='signup-button']",
+        "signup-title-mr": "#id_gender1",
+        "signup-title-mrs": "#id_gender2",
+        "signup-password": "#password",
+        "signup-days": "#days",
+        "signup-months": "#months",
+        "signup-years": "#years",
+        "signup-checkbox01": "#newsletter",
+        "signup-checkbox02": "#optin",
+        "signup-first-name": "#first_name",
+        "signup-last-name": "#last_name",
+        "signup-company": "#company",
+        "signup-address1": "#address1",
+        "signup-address2": "#address2",
+        "signup-country": "#country",
+        "signup-state": "#state",
+        "signup-city": "#city",
+        "signup-zipcode": "#zipcode",
+        "signup-mobile-number": "#mobile_number",
+        "signup-create-account": "[data-qa='create-account']",
+        "signup-continue-button": "[data-qa='continue-button']",
+        "login-password": "[data-qa='login-password']",
+        "login-email": "[data-qa='login-email']",
+        "login-button": "[data-qa='login-button']"
+    },
+    "inputs": {
+        "name": "TesteFramework",
+        "email": "TesteFrameworQA4@email.com",
+        "password": "TesteFrameworkpassword",
+        "days": 21,
+        "months": "September",
+        "years": "1994",
+        "country": "United States"
+    }
+}

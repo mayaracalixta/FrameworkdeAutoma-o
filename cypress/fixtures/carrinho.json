@@ -1,0 +1,22 @@
+{
+    "elements": {
+        "view-product1":"[href='/product_details/1']",
+        "first-product":"[data-product-id='1']",
+        "second-product":"[data-product-id='2']",
+        "button-continue":"[data-dismiss='modal']",
+        "cart-description2":"#product-2 > .cart_description > p",
+        "cart-description1":"#product-1 > .cart_description > p",
+        "cart-price2":"#product-2 > .cart_price > p",
+        "cart-price1":"#product-1 > .cart_price > p"
+
+    },
+    "inputs": {
+        "product-name": "Blue Top",
+        "category": "Category: Women > Tops",
+        "price1": "Rs. 500",
+        "price2": "Rs. 400",
+        "availability": " In Stock",
+        "condition": " New",
+        "brand": " Polo"
+    }
+}
