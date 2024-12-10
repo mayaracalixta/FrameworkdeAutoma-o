@@ -24,7 +24,7 @@ describe('Login', () => {
     //8. Verify that 'ENTER ACCOUNT INFORMATION' is visible
     cy.contains('Enter Account Information').should('be.visible')
 
-    //9. Fill details: Title, Name, Email, Password, Date of birth
+    ///9. Fill details: Title, Name, Email, Password, Date of birth
     cy.get(this.data.elements["signup-title-mr"]).click()
       .get(this.data.elements["signup-password"]).type(this.data.inputs["password"])
       .get(this.data.elements["signup-days"]).select(this.data.inputs["days"])
