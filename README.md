@@ -32,9 +32,12 @@ npx cypress run --spec "cypress/e2e/seu-teste.cy.js"
 ```
 
 ## Guia de comandos básicos 
-[Guia](https://github.com/victorhfsilva/guia-dos-testes-automatizados/tree/main/Cypress)
+[Guia de comandos](https://github.com/victorhfsilva/guia-dos-testes-automatizados/tree/main/Cypress)
 
 ## Dicas de extensões para vscode
 [ES6 Mocha Snippets](https://marketplace.visualstudio.com/items?itemName=spoonscen.es6-mocha-snippets)
-[br]
+
 [Cypress Snippets](https://marketplace.visualstudio.com/items?itemName=andrew-codes.cypress-snippets)
+
+## Guia de boas práticas
+[Best Practices](https://docs.cypress.io/app/core-concepts/best-practices)
