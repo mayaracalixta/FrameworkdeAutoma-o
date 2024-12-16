@@ -2,9 +2,9 @@
 
 
 ## Instalação node.js
-```
+
 [Download](https://nodejs.org/pt/download/package-manager)
-```
+
 
 ## Instalação cypress 
 
