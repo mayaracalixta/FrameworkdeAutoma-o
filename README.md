@@ -36,4 +36,7 @@ npx cypress run --spec "cypress/e2e/seu-teste.cy.js"
 
 ## Dicas de extensões para vscode
 [ES6 Mocha Snippets](https://marketplace.visualstudio.com/items?itemName=spoonscen.es6-mocha-snippets)
+
 [Cypress Snippets](https://marketplace.visualstudio.com/items?itemName=andrew-codes.cypress-snippets)
+
+[]
