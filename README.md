@@ -1,5 +1,5 @@
 ## Framework de Automação
-
+<p> Framework de Automação em cypress</p>
 
 ## Instalação node.js
 [Download](https://nodejs.org/pt/download/prebuilt-installer)
@@ -25,7 +25,7 @@ npx cypress run
 npx cypress run --browser chrome
 ```
 
-## Executar cypress em modo headless em um arquivo específico:
+## Executar cypress em modo headless em um arquivo específico
 
 ```
 npx cypress run --spec "cypress/e2e/seu-teste.cy.js"
