@@ -25,10 +25,10 @@ npx cypress run
 npx cypress run --browser chrome
 ```
 
-## Executar cypress em modo headless em um arquivo específico:
+## Executar cypress em modo headless em um arquivo específico
 ```
 npx cypress run --spec "cypress/e2e/seu-teste.cy.js"
 ```
 
-## Guia de comandos basicos 
+<h2> Guia de comandos basicos </h2> 
 [Guia](https://github.com/victorhfsilva/guia-dos-testes-automatizados/tree/main/Cypress)
