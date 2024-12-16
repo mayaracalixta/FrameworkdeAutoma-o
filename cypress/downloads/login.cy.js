@@ -1,6 +1,6 @@
 import { faker } from "@faker-js/faker";
 
-describe('Login', () => {
+describe.only('Login', () => {
 
   beforeEach("load fixture", function () {
     cy.fixture("login").then((data) => {

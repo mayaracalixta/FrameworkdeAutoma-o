@@ -1,3 +1,3 @@
 
 import './commands'
-import '@faker-js/faker'
+//import '@faker-js/faker'
